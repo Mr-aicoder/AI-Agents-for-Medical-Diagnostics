@@ -37,4 +37,4 @@ In future versions, the system could expand to include a broader range of AI age
 - **Medical Reports Folder**: Contains a synthetic medical report of a patient with Panic Attack disorder.
 - **Results Folder**: Stores the outputs of the agentic system.
   
-**To be able to run the code, please insert your OpenAI API key within the `apikey.env` file.**
+**To be able to run the code, please insert your OpenAI API key within the `.env` file.**
