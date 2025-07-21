@@ -1,4 +1,4 @@
-# AI-Agents-for-Medical-Diagnostics
+## AI-Agents-for-Medical-Diagnostics
 
 <img width="900" alt="image" src="https://github.com/user-attachments/assets/b7c87bf6-dfff-42fe-b8d1-9be9e6c7ce86">
 
